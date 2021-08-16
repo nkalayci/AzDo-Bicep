@@ -5,7 +5,7 @@ trigger:
 variables:
   resourceGroupName: 'iacdemo'
   location: 'westeurope'
-  azureSubscription: 'Microsoft Azure Internal Consumption'
+  azureSubscription: 'armconnection'
   resourcePrefix: 'bicep'
 
 pool:
